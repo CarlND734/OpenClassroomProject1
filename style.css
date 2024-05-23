@@ -1,3 +1,13 @@
-h1 {
-  color: red;
-}
+.logo{
+   display: block;
+   height:200px;
+   width:200px;
+   margin-right:300px;
+ } 
+
+ .photo{ 
+ 	display: block;
+   height:375px;
+   width:400px;
+   margin-right:100px;
+ }
