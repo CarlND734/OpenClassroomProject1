@@ -7,7 +7,14 @@
 
  .photo{ 
  	display: block;
-   height:375px;
-   width:400px;
+   height:200px;
+   width:350px;
    margin-right:100px;
- }
+ } 
+
+ .btn-thingy{
+    display: block;
+    width: 100%; 
+} 
+ 
+
